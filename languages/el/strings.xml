@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Droid Dashcam - Οδήγηση DVR</string>
+    <string name="app_name">Droid Dashcam - Καταγραφικό Αυτοκινήτου</string>
 
-    <string name="any_text">Οποιος</string>
+    <string name="any_text">Όποιος</string>
     <string name="close">Κλείσε</string>
     <string name="default_text">Προκαθορισμένο</string>
     <string name="disabled_text">άτομα με ειδικές ανάγκες</string>
@@ -36,7 +36,7 @@
     <string name="dialog_unlock_video_text">Ξεκλειδώστε το τρέχον βίντεο από αντικατάσταση;</string>
 
     <string name="donate_success_thanks_msg_text">Ευχαριστώ πολύ για την υποστήριξή σου!</string>
-    <string name="donation_dlg_has_ads_text">Για να καταργήσετε διαφημίσεις, η δωρεά πρέπει να είναι ή μεγαλύτερη.</string>
+    <string name="donation_dlg_has_ads_text">Για να καταργήσετε τις διαφημίσεις, η δωρεά πρέπει να είναι ή μεγαλύτερη.</string>
     <string name="donation_dlg_no_ads_text">Δεν έχετε διαφημίσεις.</string>
     <string name="donation_level_text">Επίπεδο δωρεάς σας:</string>
     <string name="donation_purchase_info_loading_text">Οι πληροφορίες αγορών δεν έχουν ανέβει ακόμα. Είστε συνδεδεμένοι και συνδεδεμένοι στον λογαριασμό σας Google;</string>
@@ -53,7 +53,7 @@
     <string name="format_minutes">ελάχ.</string>
     <string name="format_gps_speed">Ταχύτητα GPS</string>
     <string name="format_speed_measure_kilometers">km/h</string>
-    <string name="format_speed_measure_miles">μίλι/ώρα</string>
+    <string name="format_speed_measure_miles">m/h</string>
 
     <string name="msg_activity_battery_is_not_ignoring_msg_text">Το Droid Dashcam δεν εξαιρείται από τη βελτιστοποίηση μπαταρίας. Εάν η κάμερα δεν λειτουργεί στο παρασκήνιο ή κάτι άλλο, προσθέστε αυτήν την εφαρμογή στις εξαιρέσεις της λειτουργίας εξοικονόμησης ενέργειας.</string>
     <string name="msg_android_r_deleting_manual_tip_text">Εάν εγκαταστήσατε ξανά την εφαρμογή στο Android 11, τότε τα παλιά αρχεία πρέπει να διαγραφούν με μη αυτόματο τρόπο</string>
